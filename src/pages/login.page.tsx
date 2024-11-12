@@ -192,7 +192,7 @@ const LoginPage: FC = () => {
                     </Typography>
                     <Typography sx={{ fontSize: '0.9rem' }}>
                       Forgot your{' '}
-                      <LinkItem to='/forgotPassword'>password?</LinkItem>
+                      <LinkItem to='/forgot-password'>password?</LinkItem>
                     </Typography>
                   </Stack>
                 </Grid>
